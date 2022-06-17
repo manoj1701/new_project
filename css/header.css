@@ -1,0 +1,96 @@
+.head-title h2 {
+    font-weight: 700;
+}
+
+.right-side-menu li {
+    margin-left: 15px;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+    color: rgb(29, 130, 255);
+}
+
+.head-btn {
+    padding:10px;
+    border-radius: 9px;
+    border: none;
+    background-color: rgb(29, 130, 255);
+    color: #ffffff;
+    font-weight: 500;
+}
+
+.head-title {
+    position: relative;
+}
+
+.top-text {
+    position: absolute;
+    width: 18px;
+    height: 18px;
+    line-height: 18px;
+    font-size: 12px;
+    text-align: center;
+    border-radius: 50%;
+    background-color: rgb(225, 109, 8);
+    color: #ffffff;
+    top: 0;
+    right: -15px;
+}
+
+
+
+
+
+
+@media only screen and (max-width : 767px) {
+    .right-side-menu {
+        text-align: center;
+        background-color: rgb(48, 48, 48);
+    }
+
+    .navbar-light .navbar-nav .nav-link {
+        color: #ffffff;
+    }
+
+    .head-btn {
+        margin-bottom: 10px;
+    }
+
+}
+
+@media only screen and (max-width : 640px) {}
+
+@media only screen and (max-width : 568px) {}
+
+@media only screen and (max-width : 480px) {}
+
+@media only screen and (max-width : 414px) {}
+
+@media only screen and (max-width : 375px) {}
+
+@media only screen and (max-width : 360px) {}
+
+@media only screen and (max-width : 320px) {}
+
+@media only screen and (min-width : 768px) {
+
+}
+
+@media only screen and (min-width : 992px) {
+
+}
+
+@media only screen and (min-width : 1200px) {
+
+
+}
+
+@media only screen and (min-width : 1366px) {
+}
+
+@media only screen and (min-width : 1440px) {}
+
+@media only screen and (min-width : 1600px) {
+}
+
+@media only screen and (min-width : 1920px) {}
